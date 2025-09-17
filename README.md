@@ -15,6 +15,7 @@ and up.
 **See http://actionbarsherlock.com for more information.**
 
 ![Example Image][3]
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Furbanairship%2FActionBarSherlock.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Furbanairship%2FActionBarSherlock?ref=badge_shield)
 
 Try out the sample applications on the Android Market: [Feature Demos][4],
 [Fragments][5], and [RoboGuice][6].
@@ -58,3 +59,6 @@ License
  [5]: https://play.google.com/store/apps/details?id=com.actionbarsherlock.sample.fragments
  [6]: https://play.google.com/store/apps/details?id=com.actionbarsherlock.sample.roboguice
  [7]: https://travis-ci.org/JakeWharton/ActionBarSherlock
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Furbanairship%2FActionBarSherlock.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Furbanairship%2FActionBarSherlock?ref=badge_large)
